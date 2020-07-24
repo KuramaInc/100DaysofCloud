@@ -16,14 +16,14 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## [✍️ Your Name]'s Cloud Journey
 
-[✍️ Introduce yourself]
+Hi! I'm Kevin!
 
-[✍️ Tell us why you started this challenge]
+I started this challenge to get a deeper understanding of the cloud that I couldnt get from watching videos. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+Cloud Engineer hopefully and AWS/GCP Certified!
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@buckledownbrown](https://twitter.com/buckledownbrown)
+- [LinkedIn](https://www.linkedin.com/in/kevin-brown-21564035)
 
 ## Stepping out the door
 
